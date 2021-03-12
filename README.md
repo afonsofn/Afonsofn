@@ -19,8 +19,6 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capaci
 **Meus interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://i.ibb.co/7RQWwkR/tumblr-f5e3e121053ba8d807cc03a13ebfd1b8-23e814a1-1280.gif" width="400px" />
-  <img align="right" alt="GIF" src="https://i.ibb.co/jkH8Z2Y/campan2.gif" width="400px" />
-  <img align="right" alt="GIF" src="https://i.ibb.co/0GQVmL8/4.gif" width="400px" />
 
 - 👨🏽‍💻 Estou estudando backend com **Express** que é um framework em **Node.js**;
 - 🌱 Estou aprendendo como integrar minhas próprias **API** com meus projetos de **front-end**; 
