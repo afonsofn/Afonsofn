@@ -5,7 +5,7 @@
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
 <a href="https://www.youtube.com/channel/UC57ysQdVUx_MfB2eCaY4Ngg" target="_blank">
-  <img src="https://i.ibb.co/zmYNW4p/youtube.png" width="48px" height="48px">
+  <img src="" width="48px" height="48px">
 </a> 
 <a href="https://www.linkedin.com/in/raul-afonso-7bb214209/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
