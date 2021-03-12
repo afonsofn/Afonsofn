@@ -2,7 +2,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
 <a href="https://www.instagram.com/raulafonsof/" target="_blank">
-  <img src="https://i.ibb.co/w6cBBMP/Kisspng-computer-icons-youtube-icon-round-logo-design-5af2b97c1a7d03-8622494215258566361085.jpg" width="48px" height="48px">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
 <a href="https://www.youtube.com/channel/UC57ysQdVUx_MfB2eCaY4Ngg" target="_blank">
   <img src="https://ibb.co/zf6QQGB" width="48px" height="48px">
@@ -18,7 +18,9 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capaci
 
 **Meus interesses pessoais:**
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+  <img align="right" alt="GIF" src="https://i.ibb.co/7RQWwkR/tumblr-f5e3e121053ba8d807cc03a13ebfd1b8-23e814a1-1280.gif" width="400px" />
+  <img align="right" alt="GIF" src="https://i.ibb.co/jkH8Z2Y/campan2.gif" width="400px" />
+  <img align="right" alt="GIF" src="https://i.ibb.co/0GQVmL8/4.gif" width="400px" />
 
 - 👨🏽‍💻 Estou estudando backend com **Express** que é um framework em **Node.js**;
 - 🌱 Estou aprendendo como integrar minhas próprias **API** com meus projetos de **front-end**; 
