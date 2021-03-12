@@ -20,13 +20,11 @@ Oii, eu sou o **Raul Afonso**, sou de Recife, Pernambuco, sou um amante de tecno
 
   <img align="right" alt="GIF" src="https://i.ibb.co/7RQWwkR/tumblr-f5e3e121053ba8d807cc03a13ebfd1b8-23e814a1-1280.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando backend com **Express** que é um framework em **Node.js**;
-- 🌱 Estou aprendendo como integrar minhas próprias **API** com meus projetos de **front-end**; 
-- 🤔 Meus hobbies são mecânica de motos e jogos online;
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para johnatas.henrique@gmail.com para me encontrar.
-- 📝 Veja meu <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">Curriculum Vitae</a> para mais informações.
+- 👨🏽‍💻 Estou estudando backend com **Node.js**;
+- 🤔 Estou aprendendo como integrar minhas próprias **API** com meus projetos de **front-end**; 
+- 💛 Amo codar, tocar guitarra, ouvir música e jogar jogos competitivos;
+- 📝 A todo momento buscando conhecimento para evoluir minha carreira como desenvolvedor;
+- 📫 Envie um email para afonsoafn@gmail.com para me encontrar.
 
 
 **Linguagens e ferramentas:**  
@@ -47,5 +45,5 @@ Oii, eu sou o **Raul Afonso**, sou de Recife, Pernambuco, sou um amante de tecno
 </p>
 <br /><br /><br /><br /><br /><br />
 <p align="right">
-  ⭐️ Baseado em **CallmeMehdi** (https://github.com/CallmeMehdi)
+  ⭐️ Baseado em CallmeMehdi (https://github.com/CallmeMehdi)
 </p>
