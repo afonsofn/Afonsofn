@@ -45,6 +45,7 @@ Oii, eu sou o **Raul Afonso**, sou de Recife, Pernambuco, sou um amante de tecno
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Afonsofn&theme=tokyonight" alt="Afonsofn" />
 </p>
+<br />
 <p>
   ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 </p>
