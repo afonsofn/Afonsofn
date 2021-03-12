@@ -43,7 +43,7 @@ Oii, eu sou o **Raul Afonso**, sou de Recife, Pernambuco, sou um amante de tecno
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afonsofn&layout=compact&theme=graywhite&title_color=268bd2" alt="johnatas-henrique" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Afonsofn" alt="johnatas-henrique" />
 </p>
 
 <p>&nbsp;
