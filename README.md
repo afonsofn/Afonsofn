@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior** 👨🏽‍💼 e atualmente trabalho como **Student in Summer Job na Trybe** 🚀. 
+Oii, eu sou o **Raul Afonso**, sou de Recife, Pernambuco, sou um amante de tecnologia e tudo que orbita nessa universo incrivelmente fascinnate, sou um estudante da **Trybe**, um curso livre de desenvolvimento de software, estou me aprofundando cada vez mais nos conhecimentos sobre desenvolvimento afim de me tornar um **Desenvolvedor Full-Stack**
 
 **Meus interesses pessoais:**
 
