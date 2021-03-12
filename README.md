@@ -47,5 +47,5 @@ Oii, eu sou o **Raul Afonso**, sou de Recife, Pernambuco, sou um amante de tecno
 </p>
 <br /><br /><br /><br /><br /><br />
 <p align="right">
-  ⭐️ Baseado em **CallmeMehdi**(https://github.com/CallmeMehdi)
+  ⭐️ Baseado em **CallmeMehdi** (https://github.com/CallmeMehdi)
 </p>
