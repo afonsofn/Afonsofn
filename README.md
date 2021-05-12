@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Oii, eu sou o **Raul Afonso**, sou de Recife, Pernambuco, sou um desenvolverdor frontend, amante de tecnologia e tudo que orbita nesse universo incrivelmente fascinante, sou um estudante da **Trybe**, um curso livre de web development, estou me aprofundando cada vez mais nos conhecimentos sobre desenvolvimento afim de me tornar um **Desenvolvedor Full-Stack**
+Oii, eu sou o **Raul Afonso**, sou de Recife, Pernambuco, sou um desenvolverdor frontend, amante de tecnologia e tudo que orbita nesse universo incrivelmente fascinante, sou FrontEnd Engineer na **BRA Consultoria**, uma empresa de assessoria especializada para a instituição de Regimes Próprios de Previdência e, soluções completas para gestão administrativa e previdenciária, sou também um estudante da **Trybe**, um curso livre de web development, estou me aprofundando cada vez mais nos conhecimentos sobre desenvolvimento afim de um dia fazer parte de projetos **realmente grandes para a humanidade**
 
 **Meus interesses pessoais:**
 
