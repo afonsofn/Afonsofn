@@ -21,7 +21,7 @@ Oii, eu sou o **Raul Afonso**, sou de Recife, Pernambuco, sou um desenvolverdor 
   <img align="right" alt="GIF" src="https://i.ibb.co/7RQWwkR/tumblr-f5e3e121053ba8d807cc03a13ebfd1b8-23e814a1-1280.gif" width="400px" />
 
 - 👨🏽‍💻 Estou estudando backend com **Node.js**;
-- 🤔 Estou aprendedno hybrid static & server rendering com **Next.Js** e **TypeScript**; 
+- 🤔 Estou aprendendo hybrid static & server rendering com **Next.Js** e **TypeScript**; 
 - 💛 Amo codar, tocar guitarra, ouvir música e jogar jogos competitivos;
 - 📝 A todo momento buscando conhecimento para evoluir minha carreira como desenvolvedor;
 - 📫 Envie um email para afonsoafn@gmail.com para me encontrar.
@@ -42,10 +42,6 @@ Oii, eu sou o **Raul Afonso**, sou de Recife, Pernambuco, sou um desenvolverdor 
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  
-  
-  
-  
   
 </p>
 <br /><br /><br /> <br />
