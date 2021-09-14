@@ -4,9 +4,6 @@
 <a href="https://www.instagram.com/raulafonsof/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
-<a href="https://www.youtube.com/channel/UC57ysQdVUx_MfB2eCaY4Ngg" target="_blank">
-  <img src="https://i.ibb.co/1KTDtws/pngwing-com-1.png" width="48px" height="48px">
-</a> 
 <a href="https://www.linkedin.com/in/raul-afonso-7bb214209/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
@@ -14,7 +11,7 @@
 <br />
 <br />
 
-Oii, eu sou o **Raul Afonso**, sou de Recife, Pernambuco, sou um desenvolverdor frontend, amante de tecnologia e tudo que orbita nesse universo incrivelmente fascinante, sou FrontEnd Engineer na **Avenue Code**, uma empresa com soluções que abrangem todo o ciclo de serviços, desde estratégia e consultoria até treinamento e transformação ágil, experiência e interface do usuário e desenvolvimento backend, sou também um estudante da **Trybe**, um curso livre de web development, estou me aprofundando cada vez mais nos conhecimentos sobre desenvolvimento afim de um dia fazer parte de projetos **realmente grandes para a humanidade**
+Oii, eu sou o **Raul Afonso**, sou de Recife, Pernambuco, sou um desenvolverdor Frontend/Mobile, amante de tecnologia e tudo que orbita nesse universo incrivelmente fascinante, sou FrontEnd Engineer na **Avenue Code** e na **Swood**, estou me aprofundando cada vez mais nos conhecimentos sobre desenvolvimento afim de um dia fazer parte de projetos **realmente grandes para a humanidade**
 
 **Meus interesses pessoais:**
 
