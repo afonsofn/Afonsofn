@@ -11,9 +11,9 @@
 <br />
 <br />
 
-Oii, eu sou o **Raul Afonso**, sou de Recife, Pernambuco, sou um desenvolverdor Frontend/Mobile, amante de tecnologia e tudo que orbita nesse universo incrivelmente fascinante, sou FrontEnd Engineer na **Avenue Code** e na **Swood**, estou me aprofundando cada vez mais nos conhecimentos sobre desenvolvimento afim de um dia fazer parte de projetos **realmente grandes para a humanidade**
+Heyy, I'm **Raul Afonso**, I'm from Recife, Pernambuco, a Frontend/Mobile developer, lover of technology and everything that orbits in this incredibly fascinating universe, I'm FrontEnd Engineer at * *Swood**, getting deeper and deeper into development knowledge in order to one day be part of **really great projects for society**
 
-**Meus interesses pessoais:**
+**My personal interests:**
 
   <img align="right" alt="GIF" src="https://i.ibb.co/7RQWwkR/tumblr-f5e3e121053ba8d807cc03a13ebfd1b8-23e814a1-1280.gif" width="400px" />
 
