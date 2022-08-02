@@ -17,14 +17,13 @@ Heyy, I'm **Raul Afonso**, I'm from Recife, Pernambuco, a Frontend/Mobile develo
 
   <img align="right" alt="GIF" src="https://i.ibb.co/7RQWwkR/tumblr-f5e3e121053ba8d807cc03a13ebfd1b8-23e814a1-1280.gif" width="400px" />
 
-- 👨🏽‍💻 Estou aprofundando no mobile com **Flutter** e **Dart**;
-- 🤔 Estou aprendendo hybrid static & server rendering com **Nuxt**; 
-- 💛 Amo codar, tocar guitarra, ouvir música e jogar jogos competitivos;
-- 📝 A todo momento buscando conhecimento;
-- 📫 Envie um email para afonsoafn@gmail.com para me encontrar.
+- 👨🏽‍💻 I'm learning mobile development with **Flutter** and **Dart**;
+- 🤔 I'm learning backend with **Python** 
+- 💛 I love to coding, play guitar, listen to music and play competitive games;
+- 📫 Email afonsoafn@gmail.com to find me.
 
 
-**Linguagens e ferramentas:**  
+**Languages and tools:**  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
