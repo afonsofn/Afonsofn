@@ -44,10 +44,5 @@ Heyy, I'm **Raul Afonso**, I'm from Recife, Pernambuco, a Frontend/Mobile develo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   
 </p>
-<br /><br /><br /> <br />
-<br /><br /><br /> <br />
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Afonsofn&theme=tokyonight" alt="Afonsofn" />
-</p>
-<br /><br /><br /><br /><br /><br />
+
 
