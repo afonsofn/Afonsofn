@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Heyy, I'm **Raul Afonso**, I'm from Recife, Pernambuco, a Frontend/Mobile developer, lover of technology and everything that orbits in this incredibly fascinating universe, I'm FrontEnd Engineer at * *Swood**, getting deeper and deeper into development knowledge in order to one day be part of **really great projects for society**
+Heyy, I'm **Raul Afonso**, I'm from Recife, Pernambuco, a Frontend/Mobile developer, lover of technology and everything that orbits in this incredibly fascinating universe, I'm FrontEnd Engineer at * *Swood**, getting deeper and deeper into development knowledge in order to one day be part of **really great projects**
 
 **My personal interests:**
 
@@ -44,6 +44,7 @@ Heyy, I'm **Raul Afonso**, I'm from Recife, Pernambuco, a Frontend/Mobile develo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   
 </p>
+<br /><br /><br /> <br />
 <br /><br /><br /> <br />
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Afonsofn&theme=tokyonight" alt="Afonsofn" />
