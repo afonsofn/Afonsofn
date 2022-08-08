@@ -15,7 +15,7 @@ Heyy, I'm **Raul Afonso**, I'm from Recife, Pernambuco, a Frontend/Mobile develo
 
 **My personal interests:**
 
-  <img align="right" alt="GIF" src="https://i.ibb.co/7RQWwkR/tumblr-f5e3e121053ba8d807cc03a13ebfd1b8-23e814a1-1280.gif" width="400px" />
+  <img align="right" alt="GIF" src="https://uploaddeimagens.com.br/images/003/972/508/original/WhatsApp_Image_2022-08-08_at_07.36.07.jpeg?1659955117" width="400px" />
 
 - 👨🏽‍💻 I'm learning mobile development with **Flutter** and **Dart**;
 - 🤔 I'm learning backend with **Python** 
