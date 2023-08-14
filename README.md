@@ -15,6 +15,30 @@ From self-taught beginnings, I've advanced to collaborating with software houses
 I relocated to Europe in pursuit of fresh professional experiences, diving into varied technological environments. My aim has always been to broaden my perspective and **amplify the impact I bring to the projects I contribute to**.
 As a developer, I seek a deeper understanding of the product to continually enhance its value and **better assist my team!**
 
+<p align="left">
+  **My specialties:**
+  
+  - Vue
+  - React
+  - Nuxt
+  - Next
+  - Tailwind
+  - Figma
+  - Scrum
+  - Flutter
+  
+  **Languages:**
+  
+  - Javascript
+  - Typescript
+  - Dart
+</p>
+<p align="center">
+  **My goal for the next few years:**
+  
+  - Be responsible for a frontend team, and assist juniors.
+  - Deepen my knowledge in backend and devops.
+</p>
 <img align="right" alt="GIF" src="https://uploaddeimagens.com.br/images/003/972/508/original/WhatsApp_Image_2022-08-08_at_07.36.07.jpeg?1659955117" width="400px" />
 
 **My specialties:**
@@ -38,22 +62,3 @@ As a developer, I seek a deeper understanding of the product to continually enha
 
 - Be responsible for a frontend team, and assist juniors.
 - Deepen my knowledge in backend and devops.
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"" alt="typeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/>
-  
-  <img src="https://www.kindpng.com/picc/m/176-1766682_dart-programming-language-hd-png-download.png" alt="Dart" width="40" height="40"/>
-  <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" width="40" height="40"/>
-  <img src="https://d33wubrfki0l68.cloudfront.net/60725f90965e2c1b5835a1034d288b65c4a04faa/788e8/logos/nuxt-white.svg" alt="Nuxt" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="./next-js (2).png" alt="NextJs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
