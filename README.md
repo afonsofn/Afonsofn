@@ -1,27 +1,28 @@
-<a href="https://github.com/Afonsofn" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.instagram.com/raulafonsof/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
 <a href="https://www.linkedin.com/in/raul-afonso-7bb214209/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
+<a href="https://www.instagram.com/raulafonsof/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a> 
+<a href="https://github.com/Afonsofn" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
 
 <br />
 <br />
 
-Heyy, I'm **Raul Afonso**, I'm from Recife, Pernambuco, a Frontend/Mobile developer, lover of technology and everything that orbits in this incredibly fascinating universe, I'm FrontEnd Engineer at * *Swood**, getting deeper and deeper into development knowledge in order to one day be part of **really great projects**
+From self-taught beginnings, I've advanced to collaborating with software houses and leading firms, always emphasising the delivery of **top-quality** products to our customers.
+I relocated to Europe in pursuit of fresh professional experiences, diving into varied technological environments. My aim has always been to broaden my perspective and **amplify the impact I bring to the projects I contribute to**.
+As a developer, I seek a deeper understanding of the product to continually enhance its value and **better assist my team!**
+
+<img align="right" alt="GIF" src="https://uploaddeimagens.com.br/images/003/972/508/original/WhatsApp_Image_2022-08-08_at_07.36.07.jpeg?1659955117" width="400px" />
 
 **My personal interests:**
-
-  <img align="right" alt="GIF" src="https://uploaddeimagens.com.br/images/003/972/508/original/WhatsApp_Image_2022-08-08_at_07.36.07.jpeg?1659955117" width="400px" />
 
 - 👨🏽‍💻 I'm learning mobile development with **Flutter** and **Dart**;
 - 🤔 I'm learning backend with **Python** 
 - 💛 I love to coding, play guitar, listen to music and play competitive games;
 - 📫 Email afonsoafn@gmail.com to find me.
-
 
 **Languages and tools:**  
 
