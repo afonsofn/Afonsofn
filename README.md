@@ -17,14 +17,27 @@ As a developer, I seek a deeper understanding of the product to continually enha
 
 <img align="right" alt="GIF" src="https://uploaddeimagens.com.br/images/003/972/508/original/WhatsApp_Image_2022-08-08_at_07.36.07.jpeg?1659955117" width="400px" />
 
-**My personal interests:**
+**My specialties:**
 
-- 👨🏽‍💻 I'm learning mobile development with **Flutter** and **Dart**;
-- 🤔 I'm learning backend with **Python** 
-- 💛 I love to coding, play guitar, listen to music and play competitive games;
-- 📫 Email afonsoafn@gmail.com to find me.
+- Vue
+- React
+- Nuxt
+- Next
+- Tailwind
+- Figma
+- Scrum
+- Flutter
 
-**Languages and tools:**  
+**Languages:**
+
+- Javascript
+- Typescript
+- Dart
+
+**My goal for the next few years:**
+
+- Be responsible for a frontend team, and assist juniors.
+- Deepen my knowledge in backend and devops.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -43,7 +56,4 @@ As a developer, I seek a deeper understanding of the product to continually enha
   <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  
 </p>
-
-
